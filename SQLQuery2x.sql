@@ -1,0 +1,1 @@
+SELECT username, password, assertion FROM Users
